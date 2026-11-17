@@ -1,0 +1,6 @@
+{
+  "recipe_sha256": "634e042f0532266d934ad4c6ee9cc52a85695f49f8079e7303ec57f1a0981cdd",
+  "source_lock_sha256": "2bc42a50cca255b693fe0c982b128c0adb41db7d60c6195d338079f6c6a75839",
+  "openharmony_source_lock_sha256": "8e1c16680b916d98e8233bcf4d2acebf458b0f8e3477c1582ae4140d84a8261b",
+  "swiftshader_revision": "7de929845e8d30e83be6416a15e76c235bb4784d"
+}
